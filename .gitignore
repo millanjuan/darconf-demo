@@ -1,1 +1,2 @@
-.engram/
+.engram/*
+!.engram/config.json
